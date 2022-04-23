@@ -18,7 +18,7 @@ ___
 ___
 
 * Data Types and Memory Allocation
-  * Value Types
+  * [Value Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
   * Reference Types
   * double Versus decimal
   * Stack
