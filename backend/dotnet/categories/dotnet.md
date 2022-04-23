@@ -1,7 +1,7 @@
 # .NET
 
 * Common Language Runtime
-  * Intermediate Language (IL)
+  * [Intermediate Language (IL)](https://docs.microsoft.com/en-us/dotnet/standard/managed-code#intermediate-language--execution)
   * Managed language
   * [Managed code](https://docs.microsoft.com/en-us/dotnet/standard/managed-code)
   * Just-In-Time (JIT)
