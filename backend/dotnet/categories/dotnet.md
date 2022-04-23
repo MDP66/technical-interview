@@ -11,7 +11,7 @@ ___
 * Frameworks and Base Class Libraries
   * [The Base Class Libraries (BCL)](https://docs.microsoft.com/en-us/dotnet/standard/framework-libraries#base-class-library)
   * Application framework layers(not ure what it is)
-  * .NET Standard
+  * [.NET Standard](https://docs.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-2-1)
 
     ![The Framework Architecture Diagram](../../../images/framework-architecture.png)
 
