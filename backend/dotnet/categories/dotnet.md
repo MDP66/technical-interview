@@ -4,7 +4,7 @@
   * [Intermediate Language (IL)](https://docs.microsoft.com/en-us/dotnet/standard/managed-code#intermediate-language--execution)
   * Managed language
   * [Managed code](https://docs.microsoft.com/en-us/dotnet/standard/managed-code)
-  * Just-In-Time (JIT)
+  * [Just-In-Time (JIT)](https://www.c-sharpcorner.com/UploadFile/8911c4/just-in-time-jit-compiler-in-C-Sharp/)
 
 ___
 
