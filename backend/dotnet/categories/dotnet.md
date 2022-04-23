@@ -23,6 +23,7 @@ ___
     - [struct](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct) 
     - double Versus decimal
   * [Reference Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types)
+    - [Records](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record)
   * Stack
   * Heap
 
