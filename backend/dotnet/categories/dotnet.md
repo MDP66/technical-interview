@@ -20,6 +20,7 @@ ___
 * Data Types and Memory Allocation
   * [Value Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
   * Reference Types
+  * [Floating point numberic types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)
   * double Versus decimal
   * Stack
   * Heap
