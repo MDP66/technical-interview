@@ -13,7 +13,7 @@ ___
   * Application framework layers
   * .NET Standard
 
-    ![The Framework Architecture Diagram](./../../../images/framework-architecture.png)
+    ![The Framework Architecture Diagram](../../../images/framework-architecture.png)
 
 ___
 
