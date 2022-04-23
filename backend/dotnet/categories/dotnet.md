@@ -3,7 +3,7 @@
 * Common Language Runtime
   * Intermediate Language (IL)
   * Managed language
-  * Managed code
+  * [Managed code](https://docs.microsoft.com/en-us/dotnet/standard/managed-code)
   * Just-In-Time (JIT)
 
 ___
