@@ -1,6 +1,6 @@
 # .NET
 
-* Common Language Runtime
+* [Common Language Runtime](https://docs.microsoft.com/en-us/dotnet/standard/clr)
   * [Intermediate Language (IL)](https://docs.microsoft.com/en-us/dotnet/standard/managed-code#intermediate-language--execution)
   * Managed language
   * [Managed code](https://docs.microsoft.com/en-us/dotnet/standard/managed-code)
